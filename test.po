@@ -1,6 +1,6 @@
 #: customer_password_reset/data.yaml:1
 #, python-format
-msgid "%(name)s, here’s your noon password reset request"
+msgid "%(name)s, here’s your noon password reset requests"
 msgstr ""
 
 #: customer_password_reset/email.html:16
