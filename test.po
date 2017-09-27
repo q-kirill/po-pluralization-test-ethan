@@ -1,0 +1,206 @@
+#: customer_password_reset/data.yaml:1
+#, python-format
+msgid "%(name)s, here’s your noon password reset request"
+msgstr ""
+
+#: customer_password_reset/email.html:16
+msgid "Forgot you password?"
+msgstr ""
+
+#: customer_password_reset/email.html:30 items_cancelled/email.html:36
+#: items_shipped/email.html:26 order_placed/email.html:26
+#, python-format
+msgid "Hello %(name)s"
+msgstr ""
+
+#: customer_password_reset/email.html:41
+msgid "That's okay, it happens. Click on the button to reset it"
+msgstr ""
+
+#: customer_password_reset/email.html:60
+msgid "Reset Password"
+msgstr ""
+
+#: customer_phone_verify/data.yaml:1
+#, python-format
+msgid "Please verify your phone number by entering the following code %(code)s"
+msgstr ""
+
+#: items_cancelled/data.yaml:1
+#, python-format
+msgid "Item(s) from your order %(order_nr)s have been cancelled"
+msgstr ""
+
+#: items_cancelled/data.yaml:2
+#, python-format
+msgid "Item(s) from your order %(order_nr)s have been cancelled."
+msgstr ""
+
+#: items_cancelled/email.html:17
+msgid "Your order has been cancelled"
+msgstr ""
+
+#: items_cancelled/email.html:19
+msgid "An item has been cancelled."
+msgid_plural "Some items have been cancelled."
+msgstr[0] ""
+msgstr[1] ""
+
+#: items_cancelled/email.html:47
+msgid "We’re sorry but it looks like there was a problem with your order."
+msgstr ""
+
+#: items_cancelled/email.html:49
+#, python-format
+msgid "Your order %(order_nr)s has been cancelled"
+msgstr ""
+
+#: items_cancelled/email.html:51
+#, python-format
+msgid "An item has been cancelled from your order %(order_nr)s."
+msgid_plural "%(count)s items have been cancelled from your order %(order_nr)s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: items_cancelled/email.html:149 order_placed/email.html:200
+msgid ""
+"We'll send you a shipping confirmation email as soon as your order is on "
+"its way."
+msgstr ""
+
+#: items_cancelled/email.html:159 items_shipped/email.html:263
+#: order_placed/email.html:210
+msgid "Thank You,"
+msgstr ""
+
+#: items_cancelled/email.html:170 items_shipped/email.html:274
+#: order_placed/email.html:221
+msgid "noon"
+msgstr ""
+
+#: items_delivered/data.yaml:1
+#, python-format
+msgid "Item(s) from your order %(order_nr)s have been delivered"
+msgstr ""
+
+#: items_delivered/data.yaml:2
+#, python-format
+msgid "Item(s) from your order %(order_nr)s have been delivered."
+msgstr ""
+
+#: items_delivered/email.html:11 order_confirmed/email.html:11
+#: return_requested/email.html:11
+#, python-format
+msgid "Hi %(name)s"
+msgstr ""
+
+#: items_delivered/email.html:13
+#, python-format
+msgid "%(count)s item from your order %(order_nr)s has been delivered."
+msgid_plural "%(count)s items from your order %(order_nr)s have been delivered."
+msgstr[0] ""
+msgstr[1] ""
+
+#: items_delivered/email.html:19 order_confirmed/email.html:19
+#: return_requested/email.html:19
+msgid "Item"
+msgid_plural "Items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: items_shipped/data.yaml:1
+#, python-format
+msgid "Item(s) from your order %(order_nr)s have been shipped"
+msgstr ""
+
+#: items_shipped/data.yaml:2
+#, python-format
+msgid "Item(s) from your order %(order_nr)s have been shipped."
+msgstr ""
+
+#: items_shipped/email.html:15
+msgid "Shipment Out for Delivery"
+msgstr ""
+
+#: items_shipped/email.html:36
+msgid "The wait is over..."
+msgstr ""
+
+#: items_shipped/email.html:47
+#, python-format
+msgid "An item from your order %(order_nr)s is out for delivery."
+msgid_plural "%(count)s items from your order %(order_nr)s are out for delivery."
+msgstr[0] ""
+msgstr[1] ""
+
+#: items_shipped/email.html:53
+#, python-format
+msgid ""
+"To avoid delays, please keep an amount of AED %(payable)s ready to pay "
+"when the package arrives."
+msgstr ""
+
+#: items_shipped/email.html:253
+msgid "Rest of your order is on its way."
+msgstr ""
+
+#: order_confirmed/data.yaml:1
+#, python-format
+msgid "Your order %(order_nr)s has been confirmed"
+msgstr ""
+
+#: order_confirmed/data.yaml:2
+#, python-format
+msgid "Your order %(order_nr)s has been confirmed successfully!"
+msgstr ""
+
+#: order_confirmed/email.html:13
+#, python-format
+msgid "Your order %(order_nr)s has been confirmed with %(count)s item."
+msgid_plural "Your order %(order_nr)s has been confirmed with %(count)s items."
+msgstr[0] ""
+msgstr[1] ""
+
+#: order_placed/data.yaml:1
+#, python-format
+msgid "Your order %(order_nr)s has been placed"
+msgstr ""
+
+#: order_placed/data.yaml:2
+#, python-format
+msgid "Your order %(order_nr)s has been placed successfully!"
+msgstr ""
+
+#: order_placed/email.html:15
+msgid "Your order confirmation is here"
+msgstr ""
+
+#: order_placed/email.html:36
+msgid "You've got great taste! Thank you for shopping with us."
+msgstr ""
+
+#: order_placed/email.html:46
+#, python-format
+msgid ""
+"Your noon order %(number)s has been confirmed and should be with you by 3"
+" days!"
+msgstr ""
+
+#: return_requested/data.yaml:1
+#, python-format
+msgid "Your return request %(return_nr)s"
+msgstr ""
+
+#: return_requested/data.yaml:2
+#, python-format
+msgid ""
+"Your return request %(return_nr)s is successful. Pickup will be made "
+"shortly!"
+msgstr ""
+
+#: return_requested/email.html:13
+#, python-format
+msgid "Your return request %(return_nr)s for %(count)s item is being processed."
+msgid_plural "Your return request %(return_nr)s for %(count)s items is being processed."
+msgstr[0] ""
+msgstr[1] ""
