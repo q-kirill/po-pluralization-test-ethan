@@ -1,0 +1,163 @@
+#: customer_password_reset/data.yaml:1
+msgid "%(name)s, here’s your noon password reset request"
+msgstr "%(name)s , Voici votre mot de passe midi demande de réinitialisation"
+
+#: customer_password_reset/email.html:16
+msgid "Forgot you password?"
+msgstr "Mot de passe oublié?"
+
+#: customer_password_reset/email.html:30 items_cancelled/email.html:36items_shipped/email.html:26 order_placed/email.html:26
+msgid "Hello %(name)s"
+msgstr "Bonjour %(name)s"
+
+#: customer_password_reset/email.html:41
+msgid "That's okay, it happens. Click on the button to reset it"
+msgstr "Ça va, ça se passe. Cliquez sur le bouton pour le réinitialiser"
+
+#: customer_password_reset/email.html:60
+msgid "Reset Password"
+msgstr "Réinitialiser le mot de passe"
+
+#: customer_phone_verify/data.yaml:1
+msgid "Please verify your phone number by entering the following code %(code)s"
+msgstr "S'il vous plaît vérifier votre numéro de téléphone en entrant le code suivant %(code)s"
+
+#: items_cancelled/data.yaml:1
+msgid "Item(s) from your order %(order_nr)s have been cancelled"
+msgstr "Point (s) de votre %(order_nr)s commande ont été annulés"
+
+#: items_cancelled/data.yaml:2
+msgid "Item(s) from your order %(order_nr)s have been cancelled."
+msgstr "Point (s) de votre %(order_nr)s commande ont été annulés."
+
+#: items_cancelled/email.html:17
+msgid "Your order has been cancelled"
+msgstr "Votre commande a été annulée"
+
+#: items_cancelled/email.html:19
+msgid "An item has been cancelled."
+msgstr[0] "Un élément a été annulé."
+msgstr[1] "Un élément a été annulé."
+
+#: items_cancelled/email.html:47
+msgid "We’re sorry but it looks like there was a problem with your order."
+msgstr "Nous sommes désolés, mais il semble que il y avait un problème avec votre commande."
+
+#: items_cancelled/email.html:49
+msgid "Your order %(order_nr)s has been cancelled"
+msgstr "Votre commande %(order_nr)s a été annulée"
+
+#: items_cancelled/email.html:51
+msgid "An item has been cancelled from your order %(order_nr)s."
+msgstr[0] "Un élément a été annulé à partir de %(order_nr)s votre commande."
+msgstr[1] "Un élément a été annulé à partir de %(order_nr)s votre commande."
+
+#: items_cancelled/email.html:149 order_placed/email.html:200
+msgid "We'll send you a shipping confirmation email as soon as your order is on its way."
+msgstr "Nous vous enverrons une confirmation d'expédition email dès que votre commande est sur son chemin."
+
+#: items_cancelled/email.html:159 items_shipped/email.html:263order_placed/email.html:210
+msgid "Thank You,"
+msgstr "Je vous remercie,"
+
+#: items_cancelled/email.html:170 items_shipped/email.html:274order_placed/email.html:221
+msgid "noon"
+msgstr "Le midi"
+
+#: items_delivered/data.yaml:1
+msgid "Item(s) from your order %(order_nr)s have been delivered"
+msgstr "Point (s) de votre %(order_nr)s commande ont été livrés"
+
+#: items_delivered/data.yaml:2
+msgid "Item(s) from your order %(order_nr)s have been delivered."
+msgstr "Point (s) de votre %(order_nr)s commande ont été livrés."
+
+#: items_delivered/email.html:11 order_confirmed/email.html:11return_requested/email.html:11
+msgid "Hi %(name)s"
+msgstr "Salut %(name)s"
+
+#: items_delivered/email.html:13
+msgid "%(count)s item from your order %(order_nr)s has been delivered."
+msgstr[0] "%(count)s Article de votre commande a %(order_nr)s été livré."
+msgstr[1] "%(count)s Article de votre commande a %(order_nr)s été livré."
+
+#: items_delivered/email.html:19 order_confirmed/email.html:19return_requested/email.html:19
+msgid "Item"
+msgstr[0] "Article"
+msgstr[1] "Article"
+
+#: items_shipped/data.yaml:1
+msgid "Item(s) from your order %(order_nr)s have been shipped"
+msgstr "Point (s) de votre %(order_nr)s commande ont été expédiés"
+
+#: items_shipped/data.yaml:2
+msgid "Item(s) from your order %(order_nr)s have been shipped."
+msgstr "Point (s) de votre %(order_nr)s commande ont été expédiés."
+
+#: items_shipped/email.html:15
+msgid "Shipment Out for Delivery"
+msgstr "Expédition En cours de livraison"
+
+#: items_shipped/email.html:36
+msgid "The wait is over..."
+msgstr "L'attente est terminée..."
+
+#: items_shipped/email.html:47
+msgid "An item from your order %(order_nr)s is out for delivery."
+msgstr[0] "Un article de votre commande %(order_nr)s est pour la livraison."
+msgstr[1] "Un article de votre commande %(order_nr)s est pour la livraison."
+
+#: items_shipped/email.html:53
+msgid "To avoid delays, please keep an amount of AED %(payable)s ready to pay when the package arrives."
+msgstr "Pour éviter tout retard, s'il vous plaît garder un %(payable)s montant de AED prêt à payer lorsque le colis arrive."
+
+#: items_shipped/email.html:253
+msgid "Rest of your order is on its way."
+msgstr "Reste de votre commande est sur son chemin."
+
+#: order_confirmed/data.yaml:1
+msgid "Your order %(order_nr)s has been confirmed"
+msgstr "Votre commande %(order_nr)s a été confirmée"
+
+#: order_confirmed/data.yaml:2
+msgid "Your order %(order_nr)s has been confirmed successfully!"
+msgstr "Votre commande %(order_nr)s a été confirmée avec succès!"
+
+#: order_confirmed/email.html:13
+msgid "Your order %(order_nr)s has been confirmed with %(count)s item."
+msgstr[0] "Votre commande %(order_nr)s a été confirmée au point. %(count)s"
+msgstr[1] "Votre commande %(order_nr)s a été confirmée au point. %(count)s"
+
+#: order_placed/data.yaml:1
+msgid "Your order %(order_nr)s has been placed"
+msgstr "Votre commande %(order_nr)s a bien été reçue"
+
+#: order_placed/data.yaml:2
+msgid "Your order %(order_nr)s has been placed successfully!"
+msgstr "Votre commande %(order_nr)s a été placée avec succès!"
+
+#: order_placed/email.html:15
+msgid "Your order confirmation is here"
+msgstr "Votre confirmation de commande est ici"
+
+#: order_placed/email.html:36
+msgid "You've got great taste! Thank you for shopping with us."
+msgstr "Vous avez beaucoup de goût! Merci pour faire du shopping avec nous."
+
+#: order_placed/email.html:46
+msgid "Your noon order %(number)s has been confirmed and should be with you by 3 days!"
+msgstr "Votre commande de %(number)s midi a été confirmée et devrait être avec vous en 3 jours!"
+
+#: return_requested/data.yaml:1
+msgid "Your return request %(return_nr)s"
+msgstr "Votre demande de retour %(return_nr)s"
+
+#: return_requested/data.yaml:2
+msgid "Your return request %(return_nr)s is successful. Pickup will be made shortly!"
+msgstr "Votre demande de %(return_nr)s retour est réussie. Pick-up sera bientôt!"
+
+#: return_requested/email.html:13
+msgid "Your return request %(return_nr)s for %(count)s item is being processed."
+msgstr[0] "Votre demande de %(return_nr)s retour pour %(count)s le poste est en cours de traitement."
+msgstr[1] "Votre demande de %(return_nr)s retour pour %(count)s le poste est en cours de traitement."
+
